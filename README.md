@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/arXiv-2411.02708-B31B1B.svg" alt="arXiv Badge"/>
   </a>
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Yunkaidang&color=blue" alt="GitHub Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Yunkai696&color=blue" alt="GitHub Views"/>
 </p>
 
 ---
